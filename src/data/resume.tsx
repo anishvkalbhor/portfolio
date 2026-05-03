@@ -96,7 +96,7 @@ export const DATA = {
       title: "Quickserve",
       href: "https://github.com/anishvkalbhor/QuickServe",
       dates: "June 2025 - May 2026",
-      active: true,
+      active: false,
       description:
         "QuickServe is an AI-powered, voice-first ordering system for restaurant workflows. It combines speech recognition, NLU intent/entity parsing, response generation, cart/session persistence, and payment flow support in one stack.",
       technologies: [
@@ -149,9 +149,9 @@ export const DATA = {
     },
     {
       title: "PCOS Detect",
-      href: "https://llm.report",
+      href: "https://github.com/anishvkalbhor/PCOS",
       dates: "April 2023 - September 2023",
-      active: true,
+      active: false,
       description:
         "PCOS Detect is an end-to-end AI-powered clinical decision support system designed to assess Polycystic Ovary Syndrome (PCOS)",
       technologies: [
@@ -175,9 +175,9 @@ export const DATA = {
     },
     {
       title: "Devpress",
-      href: "https://automatic.chat",
+      href: "https://anishvkalbhor-devpress.vercel.app",
       dates: "November 2025",
-      active: true,
+      active: false,
       description:
         "DevPress is a modern, full-stack blogging application built to demonstrate a clean, type-safe, and scalable architecture.It allows users to create, read, edit, and delete blog posts, manage categories, upload images, and search for content - all through a seamless and responsive interface.",
       technologies: [
@@ -205,6 +205,35 @@ export const DATA = {
       image: "",
       video:
         "https://res.cloudinary.com/duycyjk2n/video/upload/v1777738552/ijvzwwed1ooyxfrlijqd.mp4",
+    },
+    {
+      title: "Attendix",
+      href: "https://github.com/inception-js-org/HackCrypt",
+      dates: "January 2026",
+      active: false,
+      description:
+        "ATTENDIX is an AI-powered smart attendance and biometric identity verification system built as part of the HackCrypt 2026 Hackathon. It combines facial recognition and fingerprint verification to provide a secure, contactless, and efficient way to verify student and faculty presence in educational institutions.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "PostgreSQL",
+        "Clerk Authentication",
+        "Drizzle ORM",
+        "Python",
+        "FastAPI",
+        "OpenCV",
+        "Pinecone",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/inception-js-org/HackCrypt",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "https://res.cloudinary.com/duycyjk2n/video/upload/v1777791229/y7dxdeik9h0smzrs0qh0.mp4",
     },
   ],
   hackathons: [
