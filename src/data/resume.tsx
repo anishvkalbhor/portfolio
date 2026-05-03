@@ -118,7 +118,7 @@ export const DATA = {
       ],
       image: "/Quickserve_Banner.png",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "https://res.cloudinary.com/duycyjk2n/video/upload/v1777788841/oljabazi0k1nrct3wul5.mp4",
     },
     {
       title: "Victor",
@@ -160,7 +160,7 @@ export const DATA = {
         "SQLite",
         "Python",
         "FastAPI",
-        "Clerk Auth",
+        "JWT Authentication",
         "Machine Learning",
       ],
       links: [
@@ -171,7 +171,7 @@ export const DATA = {
         },
       ],
       image: "/PCOS_Detect_Banner.png",
-      video: "",
+      video: "https://res.cloudinary.com/duycyjk2n/video/upload/v1777790149/pmq41rw1bo7qsj60qaay.mp4",
     },
     {
       title: "Devpress",
