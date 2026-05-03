@@ -5,7 +5,6 @@ import { DATA } from "@/data/resume";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
-// @ts-expect-error -- Next.js supports global CSS side-effect imports in app/layout.
 import "./globals.css";
 import { Analytics } from '@vercel/analytics/next';
 
